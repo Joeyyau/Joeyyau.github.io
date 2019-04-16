@@ -1,10 +1,22 @@
 ## Thanks for the host GitHub ^-^
 
-This webpage will serve as summary of my work and try to encapsalate my own essence into bits.
+This webpage will serve as summary of my work and provide a brief glance into who I am as an individual. 
 
 ### About?
 
 Not totally sure, lets see the formatting. 
+
+### Resume/Timeline
+- Westview Highschool (2013)
+- UA Local 290 Apprentice Steamfitter (2013-16)
+- Western Oregon University BS Computer Science/Minor Anthropology (20XX)
+
+### Projects/Classes/coolThings
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+^^^ for now. 
+
+
 <!---
 ```markdown
 Syntax highlighted code block
@@ -24,14 +36,3 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 -->
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Resume/Timeline
-- Westview Highschool (2013)
-- UA Local 290 Apprentice Steamfitter (2013-16)
-- Western Oregon University BS Computer Science/Minor Anthropology (20XX)
-
-### Projects/Classes/coolThings
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-^^^ for now. 
