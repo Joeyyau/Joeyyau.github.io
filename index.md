@@ -26,9 +26,9 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Resume/Timeline
--Highschool WestView (2013)
--UA Local 290 Apprentice Steamfitter (2013-16)
--Western Oregon University BS Computer Science/Minor Anthropology (20XX)
+- Highschool WestView (2013)
+- UA Local 290 Apprentice Steamfitter (2013-16)
+- Western Oregon University BS Computer Science/Minor Anthropology (20XX)
 
 ### Projects/Classes/coolThings
 
