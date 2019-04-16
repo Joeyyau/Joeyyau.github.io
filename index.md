@@ -1,4 +1,4 @@
-## Thanks GitHub ^-^
+## Thanks for the host GitHub ^-^
 
 This webpage will serve as summary of my work and try to encapsalate my own essence into bits.
 
