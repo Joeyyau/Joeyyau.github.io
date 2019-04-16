@@ -5,7 +5,7 @@ This webpage will serve as summary of my work and try to encapsalate my own esse
 ### About?
 
 Not totally sure, lets see the formatting. 
-
+<!---
 ```markdown
 Syntax highlighted code block
 
@@ -23,6 +23,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+-->
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Resume/Timeline
