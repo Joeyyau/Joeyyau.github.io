@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Thanks GitHub ^-^
 
 This webpage will serve as summary of my work and try to encapsalate my own essence into bits.
 
@@ -26,7 +26,7 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Resume/Timeline
-- Highschool WestView (2013)
+- Westview Highschool (2013)
 - UA Local 290 Apprentice Steamfitter (2013-16)
 - Western Oregon University BS Computer Science/Minor Anthropology (20XX)
 
