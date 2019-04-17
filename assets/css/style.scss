@@ -14,9 +14,9 @@ animation: siteGrad 50s ease infinite;
 
 
 @-webkit-keyframes siteGrad {
-    0%{background-position:11% 0%;}
-    50%{background-position:90% 100%;}
-    100%{background-position:11% 0%;}
+    0%{background-position:11%; 0%;}
+    50%{background-position:90%; 100%;}
+    100%{background-position:11%; 0%;}
 }
 @-moz-keyframes siteGrad {
     0%{background-position:11% 0%;}
