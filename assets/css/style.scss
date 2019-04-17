@@ -3,10 +3,10 @@
 
 @import "{{jekyll-theme-minimal}}";
 
-
+body {
 background: linear-gradient(148deg, #6cc644, #070707);
 background-size: 400% 400%;
-
+}
 
 -webkit-animation: siteGrad 50s ease infinite;
 -moz-animation: siteGrad 50s ease infinite;
