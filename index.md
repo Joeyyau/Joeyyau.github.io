@@ -8,9 +8,13 @@ Computers are cool.
 
 >"I have no doubt that in reality the future will be vastly more surprising than anything I can imagine. Now my own suspicion is that the universe is not only stranger than we suppose, but stranger than we _can_ suppose." - J. B. S. Haldane, 1927
 
+----
+
 ### Projects / Classes:
 <a href="460blog.md"> 460 Blog. </a>
- 
+
+----
+
 ### Resume / Timeline:
 - Graduated from Westview Highschool (2013)
 - UA Local 290 Apprentice Steamfitter/Welder (2013-16)
