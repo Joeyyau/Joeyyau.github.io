@@ -12,6 +12,7 @@ Not totally sure, lets see the formatting.
 - Western Oregon University BS Computer Science/Minor Anthropology (20XX)
 
 ### Projects/Classes/coolThings
+<a href="460blog.md"> 460 Blog. </a>
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 ^^^ for now. 
