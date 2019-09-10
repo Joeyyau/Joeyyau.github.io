@@ -6,7 +6,7 @@ This webpage will serve as summary of my work and provide a brief glance into wh
 
 Computers are cool. 
 
->"I have no doubt that in reality the future will be vastly more surprising than anything I can imagine. Now my own suspicion is that the universe is not only stranger than we suppose, but stranger than we <span style="color:white">**_can_**</span> suppose." - J. B. S. Haldane, 1927
+>"I have no doubt that in reality the future will be vastly more surprising than anything I can imagine. Now my own suspicion is that the universe is not only stranger than we suppose, but stranger than we _can_ suppose." - J. B. S. Haldane, 1927
 
 ### Projects / Classes:
 <a href="460blog.md"> 460 Blog. </a>
