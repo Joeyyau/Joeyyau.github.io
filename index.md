@@ -2,20 +2,20 @@
 
 This webpage will serve as summary of my work and provide a brief glance into who I am as an individual. 
 
-### About?
+### About: 
 
-Not totally sure, lets see the formatting. 
+Computers are cool. 
 
-### Resume/Timeline
-- Westview Highschool (2013)
-- UA Local 290 Apprentice Steamfitter (2013-16)
+>"I have no doubt that in reality the future will be vastly more surprising than anything I can imagine. Now my own suspicion is that the universe is not only stranger than we suppose, but stranger than we _can_ suppose." - J. B. S. Haldane, 1927
+
+### Projects / Classes:
+<a href="460blog.md"> 460 Blog. </a>
+ 
+### Resume / Timeline:
+- Graduated from Westview Highschool (2013)
+- UA Local 290 Apprentice Steamfitter/Welder (2013-16)
 - Western Oregon University BS Computer Science/Minor Anthropology (20XX)
 
-### Projects/Classes/coolThings
-<a href="460blog.md"> 460 Blog. </a>
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-^^^ for now. 
 
 
 <!---
