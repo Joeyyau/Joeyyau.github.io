@@ -1,3 +1,7 @@
+---
+title: JYT3
+---
+
 ## Thanks for the host GitHub ^-^
 
 This webpage will serve as summary of my work and provide a brief glance into who I am as an individual. 
