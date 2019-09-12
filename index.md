@@ -15,7 +15,7 @@ Computers are cool.
 ----
 
 ### Projects / Classes:
-<a href="blog.md"> 460 Blog. </a>
+<a href="pages/blog.md"> 460 Blog. </a>
 
 ----
 
