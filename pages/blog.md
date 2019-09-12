@@ -1,4 +1,6 @@
-
+---
+layout: page
+---
 # Collection of thoughts based around the course material of CS 460. 
 
 * Week 1
