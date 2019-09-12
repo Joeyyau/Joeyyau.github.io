@@ -2,7 +2,7 @@
 title: JYT3
 ---
 
-_**This webpage will serve as a summary of my work and provide a brief glance into who I am as an individual.**_
+__This webpage will serve as a summary of my work and provide a brief glance into who I am as an individual.__
 
 ### About: 
 
