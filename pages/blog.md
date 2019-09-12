@@ -1,3 +1,6 @@
+---
+title: Blog space
+---
 
 # Collection of thoughts based around the course material of CS 460. 
 
