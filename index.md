@@ -13,7 +13,7 @@ Computers are cool.
 ----
 
 ### Projects / Classes:
-#### Collection of thoughts based around the course material of CS 460. 
+##### Collection of thoughts based around the course material of CS 460. 
 
 * Week 1
     * Regarding week 1
