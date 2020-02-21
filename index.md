@@ -1,5 +1,5 @@
 ---
-title: JYT3
+title: joeyYau
 ---
 
 ## This webpage serves as a summary of my work and provides a brief glance into who I am as an individual.
@@ -12,39 +12,21 @@ Computers are cool.
 
 ----
 
-### Projects / Classes:
-##### Collection of thoughts based around the course material of CS 460. 
+### Projects / Thoughts:
+##### Collection of work and thoughts based around computing and life. 
 
-* Week 1
-    * Regarding week 1
-* Week 2
-    * Regarding week 2
-* Week 3
-    * Regarding week 3
-* Week 4
-    * Regarding week 4
-* Week 5
-    * Regarding week 5
-* Week 6
-    * Regarding week 6
-* Week 7
-    * Regarding week 7
-* Week 8
-    * Regarding week 8
-* Week 9
-    * Regarding week 9
-* Week 10
-    * Regarding week 10
-
+* Senior Capstone project
+    * [Petopia](https://github.com/Joeyyau/wou-cs_team-nerdvana) is a project myself and two other CS students [Tricia Holman](https://github.com/Stormy9) and [Corrin Moser](https://github.com/CorrinM) are building to bridge the gap between Pet Owners and Pet Care Providers — with the capacity to interfae with services ranging from vetrinary clinics to freelance individuals who are passionate about pets quality of life. This tool aims to bring both sides of the pet care world together under one roof. 
+    
 <a href="pages/blog.md"> 460 Blog. </a>
 
 ----
 
 ### Resume / Timeline:
-- Graduated from Westview Highschool (2013)
-- UA Local 290 Apprentice Steamfitter/Welder (2013-16)
-- Western Oregon University BS Computer Science/Minor Anthropology (20XX)
 
+- Western Oregon University BS Computer Science/Minor Anthropology (2020)
+- UA Local 290 Apprentice Steamfitter/Welder (2013-16)
+- Graduated from Westview Highschool (2013)
 
 
 <!---
