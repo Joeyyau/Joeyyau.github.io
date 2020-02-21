@@ -16,7 +16,7 @@ Computers are cool.
 ##### Collection of work and thoughts based around computing and life. 
 
 * Senior Capstone project
-    * [Petopia](https://github.com/Joeyyau/wou-cs_team-nerdvana) is a project myself and two other CS students [Tricia Holman](https://github.com/Stormy9) and [Corrin Moser](https://github.com/CorrinM) are building to bridge the gap between Pet Owners and Pet Care Providers — with the capacity to interfae with services ranging from vetrinary clinics to freelance individuals who are passionate about pets quality of life. This tool aims to bring both sides of the pet care world together under one roof. 
+    * [Petopia!](https://github.com/Joeyyau/wou-cs_team-nerdvana) is a project myself and two other CS students [Tricia Holman](https://github.com/Stormy9) and [Corrin Moser](https://github.com/CorrinM) are building to bridge the gap between Pet Owners and Pet Care Providers — with the capacity to interfae with services ranging from vetrinary clinics to freelance individuals who are passionate about pets quality of life. This tool aims to bring both sides of the pet care world together under one roof. 
     
 <a href="pages/blog.md"> 460 Blog. </a>
 
