@@ -2,7 +2,7 @@
 title: joeyYau
 ---
 
-## This webpage serves as a summary of my work and provides a brief glance into who I am as an individual.
+## This webpage is a summary of my work and provides a brief glance into who I am as an individual.
 
 ### About: 
 
@@ -24,7 +24,7 @@ Computers are cool.
 
 ### Resume / Timeline:
 
-- Western Oregon University BS Computer Science/Minor Anthropology (2020)
+- Graduated from Western Oregon University B.S. Computer Science/Minor Anthropology (2020)
 - UA Local 290 Apprentice Steamfitter/Welder (2013-16)
 - Graduated from Westview Highschool (2013)
 
@@ -33,6 +33,15 @@ Computers are cool.
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="assets/img/JTavaresResume_June2020.pdf">Download PDF</a>.</p>
     </embed>
 </object>
+
+
+
+
+
+
+
+
+
 
 <!---
 ```markdown
