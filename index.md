@@ -18,7 +18,7 @@ Computers are cool.
 * Senior Capstone project
     * [Petopia!](http://petopia.azurewebsites.net) is a project myself and two other CS students [Tricia Holman](https://stormy9.github.io) and [Corrin Moser](https://github.com/CorrinM) built to bridge the gap between Pet Owners and Pet Care Providers — promotes establishing the connection between owners and free lance care providers who reside in the same area. The tool aims to bring both sides of the pet care world together under one roof.
 
-    <iframe id="Video-iframe1" src="" style="width:350px;height:350px;"></iframe>
+    <iframe id="Video-iframe1" src="https://youtu.be/2zaFgmQs8BI?t=88" style="width:350px;height:350px;"></iframe>
     <script>
         fetch('https://youtu.be/2zaFgmQs8BI?t=88')
             .then(function(response) {
