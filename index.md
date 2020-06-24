@@ -28,9 +28,9 @@ Computers are cool.
 - UA Local 290 Apprentice Steamfitter/Welder (2013-16)
 - Graduated from Westview Highschool (2013)
 
-<object data="assets/img/JtavaresResume_June2020.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="assets/img/JtavaresResume_June2020.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="assets/img/JtavaresResume_June2020.pdf">Download PDF</a>.</p>
+<object data="assets/img/JTavaresResume_June2020.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="assets/img/JTavaresResume_June2020.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="assets/img/JTavaresResume_June2020.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
