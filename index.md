@@ -30,12 +30,14 @@ Computers are cool.
                 iframe.src = 'data:text/html;base64,' + encodeURIComponent(data['content']);
             });
     </script>
--->
+
 
 
 <object style="width: 820px; height: 461.25px; float: none; clear: both; margin: 2px auto;" data="https://youtu.be/2zaFgmQs8BI?t=88">
 </object>   
-    
+
+-->
+
 <a href="pages/blog.md"> 460 Blog. </a>
 
 ----
