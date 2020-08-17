@@ -38,7 +38,7 @@ Computers are cool.
 
 -->
 
-<a href="pages/blog.md"> 460 Blog. </a>
+<!-- <a href="pages/blog.md"> 460 Blog. </a> -->
 
 ----
 
