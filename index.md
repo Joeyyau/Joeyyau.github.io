@@ -44,10 +44,6 @@ Computers are cool.
 
 ### Resume / Timeline:
 
-- Graduated from Western Oregon University B.S. Computer Science/Minor Anthropology (2020)
-- UA Local 290 Apprentice Steamfitter/Welder (2013-16)
-- Graduated from Westview Highschool (2013)
-
 <object data="assets/img/JTavaresResume_July2020.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="assets/img/JTavaresResume_July2020.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="assets/img/JTavaresResume_July2020.pdf">Download PDF</a>.</p>
