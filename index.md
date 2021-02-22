@@ -44,9 +44,9 @@ Computers are cool.
 
 ### Resume / Timeline:
 
-<object data="assets/img/JTavaresResume_July2020.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="assets/img/JTavaresResume_July2020.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="assets/img/JTavaresResume_July2020.pdf">Download PDF</a>.</p>
+<object data="assets/img/JTavaresResume_Feb2021.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="assets/img/JTavaresResume_Feb2021.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="assets/img/JTavaresResume_Feb2021.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
